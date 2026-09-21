@@ -13,8 +13,8 @@
 
 <br>
 
-![<img width="1839" height="1017" alt="Screenshot 2026-09-21 054259" src="https://github.com/user-attachments/assets/8d1be5bc-221f-4797-bf19-53a1b5f857cf" />
-](dashboard.jpg)
+!<img width="1839" height="1017" alt="Screenshot 2026-09-21 054259" src="https://github.com/user-attachments/assets/19558216-f795-4a29-a21b-4df5f524dab3" />
+(dashboard.jpg)
 
 </div>
 
@@ -151,7 +151,7 @@ Breaks revenue down by product type, such as syrups, beans, teas, and chocolate.
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/your-username/coffee-sales-analysis-dashboard.git
+https://github.com/DataWithFaisal/Coffee_sales_Analysis_Excel_Dashboard
 ```
 
 **2️⃣ Open** `coffee_sales_dashboard.xlsx` in Microsoft Excel
@@ -178,7 +178,7 @@ git clone https://github.com/your-username/coffee-sales-analysis-dashboard.git
 
 **Faisal Bilal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://www.linkedin.com/in/faisal-bilal-9847733ab)](#)
 [![GitHub](https://github.com/DataWithFaisal/Coffee_sales_Analysis_Excel_Dashboard)](#)
 
 ---
