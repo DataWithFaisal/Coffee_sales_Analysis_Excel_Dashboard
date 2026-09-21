@@ -179,7 +179,7 @@ git clone https://github.com/your-username/coffee-sales-analysis-dashboard.git
 **Faisal Bilal**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://github.com/DataWithFaisal/Coffee_sales_Analysis_Excel_Dashboard)](#)
 
 ---
 
